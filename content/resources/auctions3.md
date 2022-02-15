@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-129-advanced-contract-theory-spring-2005/8dcb87042bd5c3e759d5e66bf7e8cfdb_auctions3.pdf
+file: /media/courses/14-129-advanced-contract-theory-spring-2005/8dcb87042bd5c3e759d5e66bf7e8cfdb_auctions3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: auctions3.pdf
 uid: 8dcb8704-2bd5-c3e7-59d5-e66bf7e8cfdb
