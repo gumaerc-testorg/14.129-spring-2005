@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ec042a22-5a4d-73d5-2b3c-140035be6d5a
 resourcetype: Document
 title: simple_models.pdf
 uid: dd348bac-3c83-7043-afef-eaefb6e5176b

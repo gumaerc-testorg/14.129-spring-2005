@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ec042a22-5a4d-73d5-2b3c-140035be6d5a
 resourcetype: Document
 title: fairdivision.pdf
 uid: 5855b73f-6d78-75b6-f13f-693b250c43bf

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ec042a22-5a4d-73d5-2b3c-140035be6d5a
 resourcetype: Document
 title: dynamic_adverse.pdf
 uid: e23e6b7c-f8a6-5f33-7c1c-ace86b93cff5

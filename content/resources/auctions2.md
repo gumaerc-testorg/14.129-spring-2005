@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ec042a22-5a4d-73d5-2b3c-140035be6d5a
 resourcetype: Document
 title: auctions2.pdf
 uid: 008e9fbe-5f24-abfe-3b4e-1a1a97157660
