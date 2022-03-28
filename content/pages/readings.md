@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: 85deb539-cd28-5378-0d84-31da68a71a43
 ---
@@ -56,4 +57,4 @@ Hart, Oliver D. _Firms, Contracts, and Financial Structure_. Oxford, UK: Clarend
 {{< anchor "Papers" >}}{{< /anchor >}}General List of Papers
 ------------------------------------------------------------
 
-References ([PDF]({{< baseurl >}}/resources/references))
+References ({{< resource_link ba548689-1f5d-1247-ea98-6d5764d92195 "PDF" >}})

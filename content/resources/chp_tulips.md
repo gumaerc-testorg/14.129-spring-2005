@@ -12,6 +12,7 @@ image_metadata:
   image-alt: Purple tulip in foreground, yellow tulip in background.
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: chp_tulips.jpg
 uid: 0d311e68-c0ef-187c-6e99-e4dc62ff8d37

@@ -12,6 +12,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: chp_tulip.jpg
 uid: be1a3656-4203-b8f2-df68-20a7a81a24d7

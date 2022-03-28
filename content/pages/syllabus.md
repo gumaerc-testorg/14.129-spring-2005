@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: 7d4a2f11-b597-81ce-42e1-a3451d59151f
 ---
@@ -34,7 +35,7 @@ The primary book for this course is:
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262025768) Bolton, Patrick, and Mathias Dewatripont. [_Contract Theory_](https://mitpress.mit.edu/9780262025768)_._ Cambridge, MA: MIT Press, 2005. ISBN: 9780262025768.
 
-Please see [readings]({{< baseurl >}}/pages/readings) for more information.
+Please see {{< resource_link 85deb539-cd28-5378-0d84-31da68a71a43 "readings" >}} for more information.
 
 Assignments
 -----------
