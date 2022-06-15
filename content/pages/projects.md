@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides a description of the course project, a list of
+  topics and references, and examples of student work.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
-parent_uid: null
 title: Projects
 uid: 41c5858c-2854-ef21-d89c-2470dc2bfea7
 ---
@@ -29,7 +30,7 @@ Also required is a written short report briefly outlining contribution of the pa
 References
 ----------
 
-Topics and References ({{< resource_link 21d1e1a3-3c21-39de-213e-c29d49f44949 "PDF" >}})
+Topics and References ({{% resource_link 21d1e1a3-3c21-39de-213e-c29d49f44949 "PDF" %}})
 
 Student Presenations
 --------------------
