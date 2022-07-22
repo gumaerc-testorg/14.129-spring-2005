@@ -6,6 +6,7 @@ file: /courses/14-129-advanced-contract-theory-spring-2005/5855b73f6d7875b6f13f6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: fairdivision.pdf
 uid: 5855b73f-6d78-75b6-f13f-693b250c43bf
 ---
 This file includes discussion on surplus division, fair distribution, the shapley value, and Nash bargaining solution.
-

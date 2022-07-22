@@ -5,6 +5,7 @@ file: /courses/14-129-advanced-contract-theory-spring-2005/0dfa991f3d103aabfe9f5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

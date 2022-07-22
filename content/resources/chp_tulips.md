@@ -12,6 +12,7 @@ image_metadata:
   credit: ''
   image-alt: Purple tulip in foreground, yellow tulip in background.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_tulips.jpg

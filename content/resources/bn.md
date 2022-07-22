@@ -8,6 +8,7 @@ file: /courses/14-129-advanced-contract-theory-spring-2005/836ada631511878a7a066
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 836ada63-1511-878a-7a06-6563be1e235f
 ---
 This file includes the following topics:
 A general incomplete information setting, direct mechanisms and revelation principle, and references.
-

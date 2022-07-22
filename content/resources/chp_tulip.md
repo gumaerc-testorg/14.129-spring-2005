@@ -11,10 +11,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_tulip.jpg
 uid: be1a3656-4203-b8f2-df68-20a7a81a24d7
 ---
 In a "Dutch Auction," the price is reduced until a buyer is found. Named after the famous auctions of Dutch tulip bulbs in the 17th century, it is based on a pricing system devised by Nobel prize winning economist William Vickrey. (Image courtesy Adam Kurzok and stock.xchng.)
-

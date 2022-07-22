@@ -6,6 +6,7 @@ file: /courses/14-129-advanced-contract-theory-spring-2005/21d1e1a33c2139de213ec
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: topics_refer.pdf
 uid: 21d1e1a3-3c21-39de-213e-c29d49f44949
 ---
 This file provides information on the topics for the presentations and some useful references to use for these presentations.
-

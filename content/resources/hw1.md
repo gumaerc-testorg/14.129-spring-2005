@@ -7,6 +7,7 @@ file: /courses/14-129-advanced-contract-theory-spring-2005/a9e5e39dac2e6587e81dc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: hw1.pdf
 uid: a9e5e39d-ac2e-6587-e81d-cb2720d353ac
 ---
 This file includes 3 problems from the text book of "Bolton and Dewatripont" and 2 problems on effects of affirmative actions in auctions, bidding strategies, and Revenue Equivalence theorem.
-
