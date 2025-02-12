@@ -3,7 +3,8 @@ content_type: resource
 description: This file discusses about interdependent values, second-price auction,
   English auction, linkage principle, multiunit auctions and Cremer-McLean mechanism,
   Vickrey auction, and interdependent valuations.
-file: /courses/14-129-advanced-contract-theory-spring-2005/958e6bc58ad4057836355a3c8d02b699_auctions3_4.pdf
+file: /ol-ocw-studio-app/courses/14-129-advanced-contract-theory-spring-2005/958e6bc58ad4057836355a3c8d02b699_auctions3_4.pdf
+file_size: 102320
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

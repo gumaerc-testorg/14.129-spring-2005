@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-129-advanced-contract-theory-spring-2005/8dcb87042bd5c3e759d5e66bf7e8cfdb_auctions3.pdf
+file: /ol-ocw-studio-app/courses/14-129-advanced-contract-theory-spring-2005/8dcb87042bd5c3e759d5e66bf7e8cfdb_auctions3.pdf
+file_size: 120746
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

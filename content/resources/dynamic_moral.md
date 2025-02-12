@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-129-advanced-contract-theory-spring-2005/81b6214fc1fa20ef84ba6c84db039725_dynamic_moral.pdf
+file: /ol-ocw-studio-app/courses/14-129-advanced-contract-theory-spring-2005/81b6214fc1fa20ef84ba6c84db039725_dynamic_moral.pdf
+file_size: 78161
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
