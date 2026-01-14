@@ -45,8 +45,8 @@ Che, Yeon-Koo, and Seung-Weon Yoo. "Optimal Incentives for Teams." _American Eco
 
 Levin, Jonathan. "Relational Incentive Contracts." _American Economic Review_ 93, no. 3 (June 2003): 835-857.
 
-Holmström, Bengt. "Managerial Incentive Problems: A Dynamic Perspective." _Review of Economic Studies_ 66, no. 1, Special Issue: Contracts (January 1999): 169-182. Also available as {{% resource_link "358d533c-a702-40fd-91dc-994148abd6ea" "National Bureau of Economic Research Working Paper No. 6875" %}}, January 1999.
+Holmström, Bengt. "Managerial Incentive Problems: A Dynamic Perspective." _Review of Economic Studies_ 66, no. 1, Special Issue: Contracts (January 1999): 169-182. Also available as [National Bureau of Economic Research Working Paper No. 6875](http://www.nber.org/papers/w6875), January 1999.
 
-Hart, Oliver, and John Moore. "Agreeing Now to Agree Later: Contracts that Rule Out but do not Rule In." {{% resource_link "77c7cb25-109d-4947-9887-db423c27c376" "National Bureau of Economic Research Working Paper No. 10397" %}}, March 2004.
+Hart, Oliver, and John Moore. "Agreeing Now to Agree Later: Contracts that Rule Out but do not Rule In." [National Bureau of Economic Research Working Paper No. 10397](http://www.nber.org/papers/w10397.pdf), March 2004.
 
 Maskin, Eric, and Jean Tirole. "Unforeseen Contingencies and Incomplete Contracts." _Review of Economic Studies_ 66 (1999): 83-114.
